@@ -19,8 +19,10 @@
 <body>
 
     <h1>Welcome to Your Web Page</h1>
+ <h1>Welcome to Your Web Page</h1>
 
     <p>This is a simple web page example.</p>
+<p>This is a simple web page example.</p>
 
     <script>
         // JavaScript code can go here
